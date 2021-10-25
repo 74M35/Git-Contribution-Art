@@ -13,7 +13,7 @@ I could definitely improve this by making it work at any time instead of just th
 ```python
 daycol = {232:0, 231:9, 230:9, 229:9, 228:0, 227:0, 226:0, 225:9, 224:13, 223:13, 222:9, 221:9, 220:0, 219:0, 218:1, 217:13, 216:13, 215:9, 214:9, 213:9, 212:0, 211:0, 210:9, 209:9, 208:9, 207:9, 206:9, 205:1, 204:9, 203:9, 202:9, 201:9, 200:9, 199:1, 198:0, 197:1, 196:9, 195:9, 194:9, 193:1, 192:0, 191:0, 190:0, 189:1, 188:1, 187:1, 186:0, 185:0, 184:0}
 ```
-In this dictionary in the <a href="https://github.com/74M35/Git-Contribution-Art/blob/main/heart.py">heart.py</a> heart.py file, each dictionary key is representitive of   
+In this dictionary in the <a href="https://github.com/74M35/Git-Contribution-Art/blob/main/heart.py">heart.py</a> file, each dictionary key is representitive of   
 how many days ago to make the commit (from 25/10/2021 so this wont work on any other day).  
 And the value pair is representitive of how many commits to make on that day to make it a  
 certain shade of green (as shown by the above table)
